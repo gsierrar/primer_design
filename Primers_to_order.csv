@@ -1,5 +1,11 @@
-﻿Gene,Primer_pair_#,Forward_primer_Sequence_(5'->3'),Forward_primer_Template_strand,Forward_primer_Length,Forward_primer_Start,Forward_primer_Stop,Forward_primer_Tm,Forward_primer_GC%,Forward_primer_Self_complementarity,Forward_primer_Self_3'_complementarity,Reverse_primer_Sequence_(5'->3'),Reverse_complement_reverse_primer,Reverse_primer_Template_strand,Reverse_primer_Length,Reverse_primer_Start,Reverse_primer_Stop,Reverse_primer_Tm,Reverse_primer_GC%,Reverse_primer_Self_complementarity,Reverse_primer_Self_3'_complementarity,Product_length
-ASAT3_5_Chr7_mano,6.1,ACCAACGGTCACGGCTAAT,Plus,19,147,165,59.32,52.63,3,2,TGAATGTTGATGGTCTGAATGATGT,ACATCATTCAGACCATCAACATTCA,Minus,25,820,796,59.05,36,3,1,674
-ASAT3_5_Chr7_mano,3.1,TGTCAATTCATGCGAAAAGGTTGT,Plus,24,324,347,60.2,37.5,4,2,GTTGCGGAGTTTTTCTTTCCCT,AGGGAAAGAAAAACTCCGCAAC,Minus,22,969,948,59.64,45.45,3,0,646
-ASAT3_2&3_Chr11,1,TGTGGATGTAGTCTTCCCACAAG,Plus,23,342,364,59.99,47.83,5,1,GTTTACCCTTCCGCAATCGAG,CTCGATTGCGGAAGGGTAAAC,Minus,21,943,923,59.34,52.38,4,2,602
-ASAT3_2&3_Chr11_mano,1.2,TTTGCCTTGGAGTAGTCCCTTG,Plus,22,366,387,60.22,50,6,2,GGCTACCCCATCCAAAATTGGTAA,TTACCAATTTTGGATGGGGTAGCC,Minus,24,1117,1094,61.12,45.83,6,2,752
+﻿Gene, Primer_pair_#, Forward_primer_Sequence_(5'->3'), Forward_primer_Template_strand, Forward_primer_Length, Forward_primer_Start, Forward_primer_Stop, Forward_primer_Tm, Forward_primer_GC%, Forward_primer_Self_complementarity, Forward_primer_Self_3'_complementarity, Reverse_primer_Sequence_(5'->3'), Reverse_complement_reverse_primer, Reverse_primer_Template_strand, Reverse_primer_Length, Reverse_primer_Start, Reverse_primer_Stop, Reverse_primer_Tm, Reverse_primer_GC%, Reverse_primer_Self_complementarity, Reverse_primer_Self_3'_complementarity, Product_length
+ASAT3_5_Chr7_mano, 6.1, ACCAACGGTCACGGCTAAT, Plus, 19, 147, 165, 59.32, 52.63, 3, 2, TGAATGTTGATGGTCTGAATGATGT, ACATCATTCAGACCATCAACATTCA, Minus, 25, 820, 796, 59.05, 36, 3, 1, 674
+ASAT3_5_Chr7_mano, 3.1, TGTCAATTCATGCGAAAAGGTTGT, Plus, 24, 324, 347, 60.2, 37.5, 4, 2, GTTGCGGAGTTTTTCTTTCCCT, AGGGAAAGAAAAACTCCGCAAC, Minus, 22, 969, 948, 59.64, 45.45, 3, 0, 646
+ASAT3_2&3_Chr11, 1, TGTGGATGTAGTCTTCCCACAAG, Plus, 23, 342, 364, 59.99, 47.83, 5, 1, GTTTACCCTTCCGCAATCGAG, CTCGATTGCGGAAGGGTAAAC, Minus, 21, 943, 923, 59.34, 52.38, 4, 2, 602
+ASAT3_2&3_Chr11_mano, 1.2, TTTGCCTTGGAGTAGTCCCTTG, Plus, 22, 366, 387, 60.22, 50, 6, 2, GGCTACCCCATCCAAAATTGGTAA, TTACCAATTTTGGATGGGGTAGCC, Minus, 24, 1117, 1094, 61.12, 45.83, 6, 2, 752
+ACCS1_1, 2, TGGCTGGAGCGATTCTTTGT, Plus, 20, 398, 417, 59.96, 50, 4, 0, AACACGTAGCAGCACCGTAA, , Minus, 20, 1147, 1128, 59.97, 50, 5, 1, 750
+ACCS1_1, 6, GAACCTCGGTTGTGTTTGGC, Plus, 20, 227, 246, 59.97, 55, 6, 2, CCATGCACCATCCATTGCAG, , Minus, 20, 853, 834, 59.9, 55, 4, 2, 627
+MYB12, 3, CCAAGCGATGAAAAGCTCCC, Plus, 20, 364, 383, 59.55, 55, 4, 0, AAAGCCAAGAGACAAGGGCA, , Minus, 20, 1009, 990, 59.81, 50, 3, 0, 646
+MYB12, 6, GGGAAGAGCACCTTGTTGTG, Plus, 20, 3, 22, 59.05, 55, 3, 0, ATCTCCTCCAGCCTTAGCCA, , Minus, 20, 683, 664, 60.03, 55, 3, 2, 681
+MYC1, 6, TACTACTGCTCCCTCCAATCGAAC, Plus, 24, 120, 143, 61.71, 50, 4, 0, ACGGATCGGGCTCAGGA, , Minus, 17, 850, 834, 59.67, 64.71, 4, 2, 731
+MYC1, 8, GGGAATACTACTGCTCCCTCCAATC, Plus, 25, 115, 139, 62.26, 52, 6, 0, AAAGGGCCGACGGATCG, , Minus, 17, 859, 843, 59.44, 64.71, 5, 3, 745
